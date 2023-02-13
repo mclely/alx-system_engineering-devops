@@ -1,1 +1,1 @@
-zero2 shell input output direct and filter
+0x02 shell input output to directions and filter
