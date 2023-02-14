@@ -1,3 +1,1 @@
-hello world
-confused smiley
-lets display a file
+shell redirections
